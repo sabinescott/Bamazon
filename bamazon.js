@@ -59,7 +59,6 @@ function promptUserPurchase() {
                             } else {
                                     console.log('We're out of these products')
                                     console.log('Try buying something else.');
-
                                     displayInventory();
                             }
                         }
